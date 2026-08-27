@@ -7,6 +7,7 @@ const NAV = [
   { label: "Services", href: "#industries" },
   { label: "Resources", href: "#compliance" },
   { label: "Partners", href: "#products" },
+  { label: "Product", href: "/product" },
 ];
 
 export default function Header() {
