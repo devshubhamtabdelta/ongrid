@@ -1,0 +1,3 @@
+# WordPress product proxy (temporary Hostinger target)
+/product      https://mediumturquoise-dog-576747.hostingersite.com/          200!
+/product/*    https://mediumturquoise-dog-576747.hostingersite.com/:splat    200!
